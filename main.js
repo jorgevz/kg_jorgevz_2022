@@ -1,4 +1,4 @@
-//numberToWords allows library to function 
+//numberToWords variable allows library to function 
 let numberToWords = require('number-to-words');
 
 
